@@ -18,6 +18,7 @@ Final-year **Systems & Biomedical Engineering** student at **Cairo University**.
 | [Dual-elevator controller over SPI](https://github.com/NourBahgat/stm32-dual-elevator-spi) | Bare-metal STM32 drivers, two-MCU communication, watchdog and fault tolerance |
 | [Temperature-controlled fan](https://github.com/NourBahgat/stm32-temperature-fan-controller) | Register-level ADC, PWM, timer and LCD drivers on STM32 |
 | [Oral microbiome × Parkinson's](https://github.com/NourBahgat/Oral-Microbiome-Dysbiosis-in-Parkinson-s-Disease-A-16S-rRNA-Meta-Analysis) | 16S amplicon pipeline in Python and R (Cutadapt, DADA2, SILVA, phyloseq) |
+| [LUSC differential expression](https://github.com/NourBahgat/lusc-deg-analysis) | Paired t-tests on TCGA RNA-seq data, BH-FDR correction, fold change, volcano plot and heatmap, GSEA |
 | [FFT signal equalizer](https://github.com/NourBahgat/fft-signal-equalizer) | Radix-2 FFT, multi-band equalization, spectrograms |
 
 ### Tools
