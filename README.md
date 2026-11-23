@@ -1,6 +1,6 @@
 ## Nour Bahgat
 
-I'm a final-year Systems & Biomedical Engineering student at Cairo University. Most of my work is in biomedical signal processing, wearable sensors and embedded systems. Right now I'm learning machine learning through my graduation project on seizure detection with a smartwatch.
+I'm a final-year Systems & Biomedical Engineering student at Cairo University. Most of my work is in biomedical signal processing, wearable sensors and embedded systems.
 
 ### Research
 - Co-first author of a scoping review on seizure detection and prediction methods, published in *Expert Review of Medical Devices* (2026). [doi:10.1080/17434440.2026.2632757](https://doi.org/10.1080/17434440.2026.2632757)
